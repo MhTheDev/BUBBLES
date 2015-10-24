@@ -1,0 +1,38 @@
+#myCanvas{
+	position: absolute;
+  	top: 40%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+}
+.textfield{
+	margin: 0 auto;
+	width: 300px;
+	position: absolute;
+	top: 70%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+}
+.section3{
+	margin: 0 auto;
+	width: 1000px;
+	position: absolute;
+	top: 190%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+
+}
+.section3 h1{
+	text-align: center;
+	padding: 15px;
+	border-bottom: 3px dashed #000000;
+}
+.section3 h3{
+	text-align: center;
+}
+.prettyprint{
+	padding: 10px;
+	height: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 750px;
+}
